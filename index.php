@@ -594,9 +594,9 @@ if($message['type']=='text') {
   array (
     0 => 
     array (
-      'type' => 'uri',
-      'linkUri' => 'https://www.smule.com/OFFICIAL_HFI',
-      'area' => 
+      'type' => 'message',
+      'text' => 'Official',
+      'area' =>
       array (
         'x' => 520,
         'y' => 0,
