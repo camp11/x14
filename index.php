@@ -387,7 +387,7 @@ if($message['type']=='text') {
             'messages' => array(
                 array (
   'type' => 'imagemap',
-  'baseUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1545624381/HFI/welcome',
+  'baseUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1552134455/HFI2/WC',
   'altText' => 'WELCOME TO HFI',
   'baseSize' => 
   array (
@@ -435,7 +435,7 @@ if($message['type']=='text') {
             'messages' => array(
                 array (
   'type' => 'imagemap',
-  'baseUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1545624442/HFI/admin',
+  'baseUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1552224710/HFI2/OFC',
   'altText' => 'OFFICIAL HFI',
   'baseSize' => 
   array (
@@ -478,17 +478,17 @@ if($message['type']=='text') {
     array (
       0 => 
       array (
-        'imageUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1545623064/HFI/official/505289.jpg',
+        'imageUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1552274132/HFI2/ADMIN/1552274055900.jpg',
         'action' => 
         array (
           'type' => 'uri',
           'label' => 'SMULE',
-          'uri' => 'https://www.smule.com/Abie_HFI',
+          'uri' => 'https://www.smule.com/Abiebakrie_',
         ),
       ),
       1 => 
       array (
-        'imageUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1545623070/HFI/official/505292.jpg',
+        'imageUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1552274161/HFI2/ADMIN/1552274057863.jpg',
         'action' => 
         array (
           'type' => 'uri',
@@ -498,42 +498,22 @@ if($message['type']=='text') {
       ),
       2 => 
       array (
-        'imageUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1545623064/HFI/official/505294.jpg',
+        'imageUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1552274148/HFI2/ADMIN/1552274060533.jpg',
         'action' => 
         array (
           'type' => 'uri',
           'label' => 'SMULE',
-          'uri' => 'https://www.smule.com/Zahra_HFI_Qatar',
+          'uri' => 'https://www.smule.com/HFI_ZahraBDG',
         ),
       ),
       3 => 
       array (
-        'imageUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1545623064/HFI/official/505296.jpg',
+        'imageUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1552310818/HFI2/ADMIN/1552274062337.jpg',
         'action' => 
         array (
           'type' => 'uri',
           'label' => 'SMULE',
-          'uri' => 'https://www.smule.com/HFI_Kiay',
-        ),
-      ),
-      4 => 
-      array (
-        'imageUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1545623065/HFI/official/505299.jpg',
-        'action' => 
-        array (
-          'type' => 'uri',
-          'label' => 'SMULE',
-          'uri' => 'https://www.smule.com/HFI_Rhini',
-        ),
-      ),
-      5 => 
-      array (
-        'imageUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1545623065/HFI/official/505302.jpg',
-        'action' => 
-        array (
-          'type' => 'uri',
-          'label' => 'SMULE',
-          'uri' => 'https://www.smule.com/HFI_JAGAT_PESEX',
+          'uri' => 'https://www.smule.com/HFI_Abdi_Th3a',
         ),
       ),
     ),
@@ -549,47 +529,7 @@ if($message['type']=='text') {
     array (
       0 => 
       array (
-        'imageUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1545623065/HFI/official/505305.jpg',
-        'action' => 
-        array (
-          'type' => 'uri',
-          'label' => 'SMULE',
-          'uri' => 'https://www.smule.com/HFI_GENJI',
-        ),
-      ),
-      1 => 
-      array (
-        'imageUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1545623066/HFI/official/505308.jpg',
-        'action' => 
-        array (
-          'type' => 'uri',
-          'label' => 'SMULE',
-          'uri' => 'https://www.smule.com/HFI_DW1C4_S2C',
-        ),
-      ),
-      2 => 
-      array (
-        'imageUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1545623066/HFI/official/505434.jpg',
-        'action' => 
-        array (
-          'type' => 'uri',
-          'label' => 'SMULE',
-          'uri' => 'https://www.smule.com/HFI_Syantik',
-        ),
-      ),
-      3 => 
-      array (
-        'imageUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1545623067/HFI/official/505440.jpg',
-        'action' => 
-        array (
-          'type' => 'uri',
-          'label' => 'SMULE',
-          'uri' => 'https://www.smule.com/HFI_Abdi_Th3a',
-        ),
-      ),
-      4 => 
-      array (
-        'imageUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1545623064/HFI/official/505464.jpg',
+        'imageUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1552274148/HFI2/ADMIN/1552274064353.jpg',
         'action' => 
         array (
           'type' => 'uri',
@@ -597,14 +537,34 @@ if($message['type']=='text') {
           'uri' => 'https://www.smule.com/LEO_ISSC_NLGASIC',
         ),
       ),
-      5 => 
+      1 => 
       array (
-        'imageUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1545623064/HFI/official/505509.jpg',
+        'imageUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1552274135/HFI2/ADMIN/1552274067077.jpg',
         'action' => 
         array (
           'type' => 'uri',
           'label' => 'SMULE',
           'uri' => 'https://www.smule.com/HFI_Yul176',
+        ),
+      ),
+      2 => 
+      array (
+        'imageUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1552274151/HFI2/ADMIN/1552274068869.jpg',
+        'action' => 
+        array (
+          'type' => 'uri',
+          'label' => 'SMULE',
+          'uri' => 'https://www.smule.com/HFI_JAGAT_PESEK',
+        ),
+      ),
+      3 => 
+      array (
+        'imageUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1552274143/HFI2/ADMIN/1552274070949.jpg',
+        'action' => 
+        array (
+          'type' => 'uri',
+          'label' => 'SMULE',
+          'uri' => 'https://www.smule.com/HFI_DW1C4_S2C',
         ),
       ),
     ),
@@ -616,14 +576,14 @@ if($message['type']=='text') {
 }
 //pesan bergambar
 if($message['type']=='text') {
-	    if ($command == 'Fams' || $command == 'Hfi' || $command == 'fams' ) {
+	    if ($command == 'Struktur' || $command == 'struktur' || $command == 'STRUKTUR' ) {
 
         $balas = array(
             'replyToken' => $replyToken,
             'messages' => array(
                 array (
   'type' => 'imagemap',
-  'baseUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1545624479/HFI/fam',
+  'baseUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1552226237/HFI2/STRUKTUR',
   'altText' => 'HFI',
   'baseSize' => 
   array (
