@@ -399,7 +399,7 @@ if($message['type']=='text') {
     0 => 
     array (
       'type' => 'message',
-      'text' => 'admin',
+      'text' => 'Struktur',
       'area' => 
       array (
         'x' => 0,
@@ -411,7 +411,7 @@ if($message['type']=='text') {
     1 => 
     array (
       'type' => 'message',
-      'text' => 'fams',
+      'text' => 'Admin',
       'area' => 
       array (
         'x' => 520,
