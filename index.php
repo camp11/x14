@@ -6,8 +6,8 @@ pyupyu
 require_once('./line_class.php');
 require_once('./unirest-php-master/src/Unirest.php');
 
-$channelAccessToken = 'EiGvRQdxQe7gNm93huRbPNMi3KxXeKqslLRBAisreW6xMBIzbq8p/Jb932F52wYkiJk+fuAJcjbJcc7lV/KeHK37Ep1vZJRr8Rr+k3bou+PSvaIjKONPcbRw62YOnGc6u3+HIIVljGoyawcQlKQUTwdB04t89/1O/w1cDnyilFU='; //sesuaikan 
-$channelSecret = '787792848ab2f7d40b204d3bda38a770';//sesuaikan
+$channelAccessToken = 'VUr2s2NmNtdVZw1VY+32bXkZ13uOZYxMYSiEglreClVNf9sPjBoxyGWyTkmumdiFofBulEiR4q69e3hwHTUiRZq/j2SlLYFry0JmiR/c6HsXb9N0s2TaR1EhaXXQ7+tHzIK13LosW/mwu6msrVB6sAdB04t89/1O/w1cDnyilFU='; //sesuaikan 
+$channelSecret = 'a725136e3b23cc21ea7f07ad37d60af8';//sesuaikan
 
 $client = new LINEBotTiny($channelAccessToken, $channelSecret);
 
